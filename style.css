@@ -1,0 +1,93 @@
+*{
+	margin: 0; padding:0; 
+}
+p, h1, h2, h3{
+	padding-bottom: 1em; 
+}
+ul{
+	margin-left: 25px; 
+}
+
+body{
+	background: #000; 
+}
+
+ 
+#wrapper{
+	width: 1000px;
+	margin: 0 auto; 
+	background: #FAFAFA; 
+}
+header{
+	width: 1000px;
+	height: 250px; 
+	background: rgb(167,0,212);
+	background: linear-gradient(90deg, rgba(167,0,212,1) 0%, rgba(0,155,249,1) 52%, rgba(165,0,186,1) 100%, rgba(0,212,255,1) 100%); 
+	text-align: center; 
+	line-height: 250px;
+}
+header h1{
+	color: #000;
+	font-size: 64px;
+	font-family: "Verdana";
+ 
+} 
+#homepage{
+	line-height: 100px;
+	width: 1000px;
+	text-align: center; 
+	background: rgb(167,0,212);
+	background: linear-gradient(90deg, rgba(167,0,212,1) 0%, rgba(0,155,249,1) 52%, rgba(165,0,186,1) 100%, rgba(0,212,255,1) 100%); 
+	font-family: "Verdana";
+	font-size: 10px; 
+}
+ 
+main{
+	width:1000px; 
+	background: #FAFAFA;  
+	float: left; 
+	display: flex; 
+}
+ 
+#leftContent h1{ 
+	color: #000;
+	font-family: "Verdana"; 
+ 
+}
+ 
+#rightContent h1{
+	color: #000;
+	font-family: "Verdana"; 
+}
+ 
+#leftContent{
+	padding: 20px; 
+	width:410px; 
+	border: solid 10px #00A0D3;
+	background: #FFF; 
+	float: left; 
+}
+ 
+#rightContent{
+	padding: 20px; 
+	width: 490px; 
+	border:solid 10px #0002D3;
+	background: #FFF;  
+	float: left; 
+}
+ 
+footer{
+	width :1000px; 
+	height: 250px; 
+	text-align: center; 
+	line-height: 250px; 
+	background: #0030FF; 
+	clear: both; 
+}
+footer h3{
+	color: #000; 
+}
+has context menu
+
+
+has context menu
